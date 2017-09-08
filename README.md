@@ -18,7 +18,7 @@ Always add me as an Assignee if there are issues with your code.
 If you don't know how to do any of this follow this guide: https://guides.github.com/activities/hello-world/
 
 
-Afterwards, please download the main.cpp file and perform the same cout edit I did but with your name
+Afterwards, please download the main.cpp file and perform the same cout edit I did but with your name and follow the same commit procedure
 
 
 Arthur Moua - Hello World
