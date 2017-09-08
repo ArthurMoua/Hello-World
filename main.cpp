@@ -9,6 +9,7 @@ using namespace std;
 int main()
 {
     cout<<"Arthur Moua-Hello World";
+    cout<<"Kenny Yu-Hello World";
 
     return 0;
 }
